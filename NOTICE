@@ -1,0 +1,27 @@
+The Claww - License Notice
+
+The Claww is a fork of Claw Code. The original Claw Code source is
+Copyright (c) 2026 UltraWorkers and Claw Code contributors and remains
+available under the MIT License in the LICENSE file. That license and its
+copyright notice must stay with those parts, and nothing here changes it.
+
+Everything Buggy Games YT added on top of the original, including the
+Android app, the Arch Linux build, the chat sync, the upstream-sync and
+release tooling, The Claww name, branding, icons, and graphics, is:
+
+Copyright (c) 2026 Buggy Games YT. All Rights Reserved.
+
+You may view these additions on GitHub. No other rights are granted.
+Without prior written permission from the copyright holder, you may NOT:
+
+  - copy, modify, merge, or create derivative works from them;
+  - publish, distribute, sublicense, sell, or re-upload them, or any app
+    or build that includes them;
+  - use The Claww name, branding, or icons for any other project.
+
+Forking this repository on GitHub, as permitted by GitHub's Terms of
+Service, does not grant any of the rights above to these additions.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+For permission requests, contact: BuggysFanMail@gmail.com
